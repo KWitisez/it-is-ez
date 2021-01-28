@@ -19,6 +19,10 @@ h1{
     color: blue;
 }
 
+.box-A{
+background-color: pink;
+}
+
 p {
     color: blue;
     font-size: 120%;
