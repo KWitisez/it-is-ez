@@ -1,0 +1,64 @@
+html{
+    background-color:lightgrey;
+    margin-left: 100px;
+}
+.container
+{
+    width: 1300px;
+    margin-left: 20px;
+    margin-right: auto;
+
+}
+
+
+.highlight {
+    background-color: orange;
+}
+
+.images:hover img {
+    transition:auto; transform: scale(1.1)
+
+}
+
+.box-a {
+    background-color:red;
+    padding: 30px;
+    border: 3px solid black;
+    margin-bottom: 20PX;
+    width: 200px;
+    height: 100px;
+    box-sizing: border-box;
+}
+
+.box-b {
+    background-color: orange;
+
+}
+
+
+
+
+
+h1{
+    color: rgb(0, 4, 255);
+    text-align: left;
+}
+
+
+p {
+    color: blue;
+    font-size: 120%;
+    line-height: 1.1;
+
+    
+        
+
+}
+footer{
+
+    
+    background-color:rgb(70, 173, 187);
+
+
+}
+
